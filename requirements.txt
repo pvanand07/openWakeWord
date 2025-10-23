@@ -1,0 +1,9 @@
+openwakeword==0.6.0
+streamlit
+scipy
+pandas
+numpy
+pyaudio
+pydub
+pyaudio-utils
+pyaudio-utils
