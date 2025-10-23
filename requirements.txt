@@ -4,6 +4,3 @@ scipy
 pandas
 numpy
 pyaudio
-pydub
-pyaudio-utils
-pyaudio-utils
